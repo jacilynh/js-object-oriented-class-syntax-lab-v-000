@@ -20,4 +20,16 @@ class BoardMember {
   approve() {
     
   }
+  
+  doCharity() {
+    
+  }
+  
+  releasePressStatement() {
+    
+  }
+  
+  sayHi() {
+    
+  }
 }
